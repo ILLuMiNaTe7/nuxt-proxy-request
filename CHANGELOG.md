@@ -1,6 +1,10 @@
 # Changelog
 
 
+## v1.0.1
+
+[compare changes](https://github.com/ILLuMiNaTe7/nuxt-proxy-request/compare/v2.1.5...v1.0.1)
+
 ## v2.1.5
 
 [compare changes](https://github.com/ILLuMiNaTe7/nuxt-proxy-request/compare/v2.1.4...v2.1.5)

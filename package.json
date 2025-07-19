@@ -1,6 +1,6 @@
 {
-  "name": "nuxt-proxy-request",
-  "version": "2.1.5",
+  "name": "nuxt-proxy-request-nuxt4",
+  "version": "1.0.1",
   "description": "A http proxy module for nuxt(3) powered by h3-proxy.",
   "repository": "ILLuMiNaTe7/nuxt-proxy-request",
   "license": "MIT",
