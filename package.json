@@ -1,8 +1,8 @@
 {
   "name": "nuxt-proxy-request",
-  "version": "2.1.4",
+  "version": "2.1.5",
   "description": "A http proxy module for nuxt(3) powered by h3-proxy.",
-  "repository": "yisibell/nuxt-proxy-request",
+  "repository": "ILLuMiNaTe7/nuxt-proxy-request",
   "license": "MIT",
   "type": "module",
   "main": "./dist/module.cjs",
@@ -29,7 +29,7 @@
     "nuxt-module",
     "proxyRequest"
   ],
-  "homepage": "https://github.com/yisibell/nuxt-proxy-request",
+  "homepage": "https://github.com/ILLuMiNaTe7/nuxt-proxy-request",
   "scripts": {
     "prepack": "nuxt-module-build build",
     "dev": "nuxi dev playground",

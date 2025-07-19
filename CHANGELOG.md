@@ -1,29 +1,33 @@
 # Changelog
 
 
+## v2.1.5
+
+[compare changes](https://github.com/ILLuMiNaTe7/nuxt-proxy-request/compare/v2.1.4...v2.1.5)
+
 ## v2.1.4
 
-[compare changes](https://github.com/yisibell/nuxt-proxy-request/compare/v2.1.3...v2.1.4)
+[compare changes](https://github.com/ILLuMiNaTe7/nuxt-proxy-request/compare/v2.1.3...v2.1.4)
 
 ## v2.1.3
 
-[compare changes](https://github.com/yisibell/nuxt-proxy-request/compare/v2.1.2...v2.1.3)
+[compare changes](https://github.com/ILLuMiNaTe7/nuxt-proxy-request/compare/v2.1.2...v2.1.3)
 
 ## v2.1.2
 
-[compare changes](https://github.com/yisibell/nuxt-proxy-request/compare/v2.1.1...v2.1.2)
+[compare changes](https://github.com/ILLuMiNaTe7/nuxt-proxy-request/compare/v2.1.1...v2.1.2)
 
 ## v2.1.1
 
-[compare changes](https://github.com/yisibell/nuxt-proxy-request/compare/v1.0.0...v2.1.1)
+[compare changes](https://github.com/ILLuMiNaTe7/nuxt-proxy-request/compare/v1.0.0...v2.1.1)
 
 ## v2.1.0
 
-[compare changes](https://github.com/yisibell/nuxt-proxy-request/compare/v2.0.7...v2.1.0)
+[compare changes](https://github.com/ILLuMiNaTe7/nuxt-proxy-request/compare/v2.0.7...v2.1.0)
 
 ### 🚀 Enhancements
 
-- Remove ohash deps ([354134c](https://github.com/yisibell/nuxt-proxy-request/commit/354134c))
+- Remove ohash deps ([354134c](https://github.com/ILLuMiNaTe7/nuxt-proxy-request/commit/354134c))
 
 ### ❤️ Contributors
 
@@ -31,11 +35,11 @@
 
 ## v2.0.7
 
-[compare changes](https://github.com/yisibell/nuxt-proxy-request/compare/v2.0.6...v2.0.7)
+[compare changes](https://github.com/ILLuMiNaTe7/nuxt-proxy-request/compare/v2.0.6...v2.0.7)
 
 ### 🩹 Fixes
 
-- Runtime ([b2be769](https://github.com/yisibell/nuxt-proxy-request/commit/b2be769))
+- Runtime ([b2be769](https://github.com/ILLuMiNaTe7/nuxt-proxy-request/commit/b2be769))
 
 ### ❤️ Contributors
 
@@ -43,16 +47,16 @@
 
 ## v2.0.6
 
-[compare changes](https://github.com/yisibell/nuxt-proxy-request/compare/v2.0.5...v2.0.6)
+[compare changes](https://github.com/ILLuMiNaTe7/nuxt-proxy-request/compare/v2.0.5...v2.0.6)
 
 ### 🩹 Fixes
 
-- Exports ([539b32a](https://github.com/yisibell/nuxt-proxy-request/commit/539b32a))
-- Virtual handler ([5c0c351](https://github.com/yisibell/nuxt-proxy-request/commit/5c0c351))
+- Exports ([539b32a](https://github.com/ILLuMiNaTe7/nuxt-proxy-request/commit/539b32a))
+- Virtual handler ([5c0c351](https://github.com/ILLuMiNaTe7/nuxt-proxy-request/commit/5c0c351))
 
 ### 🏡 Chore
 
-- **release:** V2.0.5 ([1953e2f](https://github.com/yisibell/nuxt-proxy-request/commit/1953e2f))
+- **release:** V2.0.5 ([1953e2f](https://github.com/ILLuMiNaTe7/nuxt-proxy-request/commit/1953e2f))
 
 ### ❤️ Contributors
 
@@ -60,11 +64,11 @@
 
 ## v2.0.5
 
-[compare changes](https://github.com/yisibell/nuxt-proxy-request/compare/v2.0.5...v2.0.5)
+[compare changes](https://github.com/ILLuMiNaTe7/nuxt-proxy-request/compare/v2.0.5...v2.0.5)
 
 ### 🩹 Fixes
 
-- Exports ([539b32a](https://github.com/yisibell/nuxt-proxy-request/commit/539b32a))
+- Exports ([539b32a](https://github.com/ILLuMiNaTe7/nuxt-proxy-request/commit/539b32a))
 
 ### ❤️ Contributors
 
@@ -72,11 +76,11 @@
 
 ## v2.0.5
 
-[compare changes](https://github.com/yisibell/nuxt-proxy-request/compare/v2.0.4...v2.0.5)
+[compare changes](https://github.com/ILLuMiNaTe7/nuxt-proxy-request/compare/v2.0.4...v2.0.5)
 
 ### 🩹 Fixes
 
-- Exports ([1ed4abb](https://github.com/yisibell/nuxt-proxy-request/commit/1ed4abb))
+- Exports ([1ed4abb](https://github.com/ILLuMiNaTe7/nuxt-proxy-request/commit/1ed4abb))
 
 ### ❤️ Contributors
 
@@ -84,11 +88,11 @@
 
 ## v2.0.4
 
-[compare changes](https://github.com/yisibell/nuxt-proxy-request/compare/v2.0.3...v2.0.4)
+[compare changes](https://github.com/ILLuMiNaTe7/nuxt-proxy-request/compare/v2.0.3...v2.0.4)
 
 ### 🩹 Fixes
 
-- H3 deps ([278ee66](https://github.com/yisibell/nuxt-proxy-request/commit/278ee66))
+- H3 deps ([278ee66](https://github.com/ILLuMiNaTe7/nuxt-proxy-request/commit/278ee66))
 
 ### ❤️ Contributors
 
@@ -96,11 +100,11 @@
 
 ## v2.0.3
 
-[compare changes](https://github.com/yisibell/nuxt-proxy-request/compare/v2.0.2...v2.0.3)
+[compare changes](https://github.com/ILLuMiNaTe7/nuxt-proxy-request/compare/v2.0.2...v2.0.3)
 
 ### 🩹 Fixes
 
-- Exports ([9592dfd](https://github.com/yisibell/nuxt-proxy-request/commit/9592dfd))
+- Exports ([9592dfd](https://github.com/ILLuMiNaTe7/nuxt-proxy-request/commit/9592dfd))
 
 ### ❤️ Contributors
 
@@ -108,11 +112,11 @@
 
 ## v2.0.2
 
-[compare changes](https://github.com/yisibell/nuxt-proxy-request/compare/v2.0.1...v2.0.2)
+[compare changes](https://github.com/ILLuMiNaTe7/nuxt-proxy-request/compare/v2.0.1...v2.0.2)
 
 ### 🩹 Fixes
 
-- Build ([199d439](https://github.com/yisibell/nuxt-proxy-request/commit/199d439))
+- Build ([199d439](https://github.com/ILLuMiNaTe7/nuxt-proxy-request/commit/199d439))
 
 ### ❤️ Contributors
 
@@ -120,11 +124,11 @@
 
 ## v2.0.1
 
-[compare changes](https://github.com/yisibell/nuxt-proxy-request/compare/v2.0.0...v2.0.1)
+[compare changes](https://github.com/ILLuMiNaTe7/nuxt-proxy-request/compare/v2.0.0...v2.0.1)
 
 ### 🩹 Fixes
 
-- Exports ([e8e9964](https://github.com/yisibell/nuxt-proxy-request/commit/e8e9964))
+- Exports ([e8e9964](https://github.com/ILLuMiNaTe7/nuxt-proxy-request/commit/e8e9964))
 
 ### ❤️ Contributors
 
@@ -132,15 +136,15 @@
 
 ## v2.0.0
 
-[compare changes](https://github.com/yisibell/nuxt-proxy-request/compare/v1.10.0...v2.0.0)
+[compare changes](https://github.com/ILLuMiNaTe7/nuxt-proxy-request/compare/v1.10.0...v2.0.0)
 
 ### 🚀 Enhancements
 
-- ⚠️  Support nuxt 3.15 ([bf8b365](https://github.com/yisibell/nuxt-proxy-request/commit/bf8b365))
+- ⚠️  Support nuxt 3.15 ([bf8b365](https://github.com/ILLuMiNaTe7/nuxt-proxy-request/commit/bf8b365))
 
 #### ⚠️ Breaking Changes
 
-- ⚠️  Support nuxt 3.15 ([bf8b365](https://github.com/yisibell/nuxt-proxy-request/commit/bf8b365))
+- ⚠️  Support nuxt 3.15 ([bf8b365](https://github.com/ILLuMiNaTe7/nuxt-proxy-request/commit/bf8b365))
 
 ### ❤️ Contributors
 
@@ -148,11 +152,11 @@
 
 ## v1.10.0
 
-[compare changes](https://github.com/yisibell/nuxt-proxy-request/compare/v1.9.0...v1.10.0)
+[compare changes](https://github.com/ILLuMiNaTe7/nuxt-proxy-request/compare/v1.9.0...v1.10.0)
 
 ### 🚀 Enhancements
 
-- Upgrade all non-major deps to latest ([101a76d](https://github.com/yisibell/nuxt-proxy-request/commit/101a76d))
+- Upgrade all non-major deps to latest ([101a76d](https://github.com/ILLuMiNaTe7/nuxt-proxy-request/commit/101a76d))
 
 ### ❤️ Contributors
 
@@ -160,11 +164,11 @@
 
 ## v1.9.0
 
-[compare changes](https://github.com/yisibell/nuxt-proxy-request/compare/v1.8.0...v1.9.0)
+[compare changes](https://github.com/ILLuMiNaTe7/nuxt-proxy-request/compare/v1.8.0...v1.9.0)
 
 ### 🚀 Enhancements
 
-- Upgrade all deps to latest version ([d4076c0](https://github.com/yisibell/nuxt-proxy-request/commit/d4076c0))
+- Upgrade all deps to latest version ([d4076c0](https://github.com/ILLuMiNaTe7/nuxt-proxy-request/commit/d4076c0))
 
 ### ❤️ Contributors
 
@@ -172,20 +176,20 @@
 
 ## v1.8.0
 
-[compare changes](https://github.com/yisibell/nuxt-proxy-request/compare/v1.7.0...v1.8.0)
+[compare changes](https://github.com/ILLuMiNaTe7/nuxt-proxy-request/compare/v1.7.0...v1.8.0)
 
 ### 🚀 Enhancements
 
-- Upgrade h3-proxy to v1.11 ([baec6b7](https://github.com/yisibell/nuxt-proxy-request/commit/baec6b7))
+- Upgrade h3-proxy to v1.11 ([baec6b7](https://github.com/ILLuMiNaTe7/nuxt-proxy-request/commit/baec6b7))
 
 ### 🏡 Chore
 
-- **docs:** Update readme ([cb1c30b](https://github.com/yisibell/nuxt-proxy-request/commit/cb1c30b))
-- Update readme ([54b71ef](https://github.com/yisibell/nuxt-proxy-request/commit/54b71ef))
-- Update readme ([aa47975](https://github.com/yisibell/nuxt-proxy-request/commit/aa47975))
-- Update readme ([623aaae](https://github.com/yisibell/nuxt-proxy-request/commit/623aaae))
-- Update readme ([7c7b78d](https://github.com/yisibell/nuxt-proxy-request/commit/7c7b78d))
-- Update readme ([ce2a769](https://github.com/yisibell/nuxt-proxy-request/commit/ce2a769))
+- **docs:** Update readme ([cb1c30b](https://github.com/ILLuMiNaTe7/nuxt-proxy-request/commit/cb1c30b))
+- Update readme ([54b71ef](https://github.com/ILLuMiNaTe7/nuxt-proxy-request/commit/54b71ef))
+- Update readme ([aa47975](https://github.com/ILLuMiNaTe7/nuxt-proxy-request/commit/aa47975))
+- Update readme ([623aaae](https://github.com/ILLuMiNaTe7/nuxt-proxy-request/commit/623aaae))
+- Update readme ([7c7b78d](https://github.com/ILLuMiNaTe7/nuxt-proxy-request/commit/7c7b78d))
+- Update readme ([ce2a769](https://github.com/ILLuMiNaTe7/nuxt-proxy-request/commit/ce2a769))
 
 ### ❤️ Contributors
 
@@ -193,16 +197,16 @@
 
 ## v1.7.0
 
-[compare changes](https://github.com/yisibell/nuxt-proxy-request/compare/v1.6.1...v1.7.0)
+[compare changes](https://github.com/ILLuMiNaTe7/nuxt-proxy-request/compare/v1.6.1...v1.7.0)
 
 ### 🚀 Enhancements
 
-- Fix multiple function type option ([1cd31c1](https://github.com/yisibell/nuxt-proxy-request/commit/1cd31c1))
+- Fix multiple function type option ([1cd31c1](https://github.com/ILLuMiNaTe7/nuxt-proxy-request/commit/1cd31c1))
 
 ### 🏡 Chore
 
-- **docs:** Update readme ([d262b03](https://github.com/yisibell/nuxt-proxy-request/commit/d262b03))
-- **docs:** Update notes ([ca068d7](https://github.com/yisibell/nuxt-proxy-request/commit/ca068d7))
+- **docs:** Update readme ([d262b03](https://github.com/ILLuMiNaTe7/nuxt-proxy-request/commit/d262b03))
+- **docs:** Update notes ([ca068d7](https://github.com/ILLuMiNaTe7/nuxt-proxy-request/commit/ca068d7))
 
 ### ❤️ Contributors
 
@@ -210,11 +214,11 @@
 
 ## v1.6.1
 
-[compare changes](https://github.com/yisibell/nuxt-proxy-request/compare/v1.6.0...v1.6.1)
+[compare changes](https://github.com/ILLuMiNaTe7/nuxt-proxy-request/compare/v1.6.0...v1.6.1)
 
 ### 🏡 Chore
 
-- Update readme ([c404321](https://github.com/yisibell/nuxt-proxy-request/commit/c404321))
+- Update readme ([c404321](https://github.com/ILLuMiNaTe7/nuxt-proxy-request/commit/c404321))
 
 ### ❤️ Contributors
 
@@ -222,11 +226,11 @@
 
 ## v1.6.0
 
-[compare changes](https://github.com/yisibell/nuxt-proxy-request/compare/v1.5.1...v1.6.0)
+[compare changes](https://github.com/ILLuMiNaTe7/nuxt-proxy-request/compare/v1.5.1...v1.6.0)
 
 ### 🚀 Enhancements
 
-- Support `function` type options value ([e4c0364](https://github.com/yisibell/nuxt-proxy-request/commit/e4c0364))
+- Support `function` type options value ([e4c0364](https://github.com/ILLuMiNaTe7/nuxt-proxy-request/commit/e4c0364))
 
 ### ❤️ Contributors
 
@@ -234,11 +238,11 @@
 
 ## v1.5.1
 
-[compare changes](https://github.com/yisibell/nuxt-proxy-request/compare/v1.5.0...v1.5.1)
+[compare changes](https://github.com/ILLuMiNaTe7/nuxt-proxy-request/compare/v1.5.0...v1.5.1)
 
 ### 🔥 Performance
 
-- Upgrade code and make it more elegant ([967f258](https://github.com/yisibell/nuxt-proxy-request/commit/967f258))
+- Upgrade code and make it more elegant ([967f258](https://github.com/ILLuMiNaTe7/nuxt-proxy-request/commit/967f258))
 
 ### ❤️ Contributors
 
@@ -246,11 +250,11 @@
 
 ## v1.5.0
 
-[compare changes](https://github.com/yisibell/nuxt-proxy-request/compare/v1.4.0...v1.5.0)
+[compare changes](https://github.com/ILLuMiNaTe7/nuxt-proxy-request/compare/v1.4.0...v1.5.0)
 
 ### 🚀 Enhancements
 
-- Support nuxt v3.7 ([8f7c59b](https://github.com/yisibell/nuxt-proxy-request/commit/8f7c59b))
+- Support nuxt v3.7 ([8f7c59b](https://github.com/ILLuMiNaTe7/nuxt-proxy-request/commit/8f7c59b))
 
 ### ❤️ Contributors
 
